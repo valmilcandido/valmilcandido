@@ -1,9 +1,10 @@
-## Hellow World, como vocês estão? <br>
-Meu nome é Valmil e sou techlead. 
+<h1>Hey! Nice to see you.</h1>
 
-Minha trajetória na área de tecnologia vem da área de programação de softwares em Java, quase sempre para a web. Ultimamente tenho participado bastante de projetos utilizando arquitetura de microserviços.
+<p>I'am Valmil, techlead from Santos. I'm currently living on São Paulo.  
 
-Na parte acadêmica, tenho estudado e gostado bastante de trabalhar com NODE pela simplicidade e velocidade na entrega dos projetos.
+My trajectory in the technology area comes from the software programming in Java, mostly to web application. I have participated a lot in projects using microservices architecture.
+
+I have studied and enjoyed working with Node because of its simplicity and speed in delivering projects.
 
 <h3>Things I code with</h3>
 <p>
@@ -29,7 +30,7 @@ Na parte acadêmica, tenho estudado e gostado bastante de trabalhar com NODE pel
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=valmilcandido&show_icons=true&theme=dark"><br><br>
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmilcandido&layout=compact&theme=dark&)](https://github.com/anuraghazra/github-readme-stats">
 
-<h3>Onde me encontrar:</h3>
+<h3>Where to find me:</h3>
 <p><a href="https://github.com/valmilcandido" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/valmilcandido" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/valmilcandido" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
